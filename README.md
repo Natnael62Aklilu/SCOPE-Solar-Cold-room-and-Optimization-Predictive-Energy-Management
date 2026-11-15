@@ -25,10 +25,10 @@ The project consists of the following main components:
 
 1. Weather Data Processing: Processing historical temperature, humidity and solar irradiance data.
 2. Cold-Room Energy Modelling: Estimating hourly electricity demand based on the cold-room thermal load.
-3. Solar PV Optimisation:** Evaluating different PV capacities using historical solar generation and energy demand.
-4. Battery Energy Storage:** Modelling battery charging, discharging, efficiency, state of charge and reserve requirements.
-5. Solar and Load Forecasting:** Predicting future solar generation and cold-room energy demand.
-6. Predictive Energy Management:** Managing battery reserves, discharge decisions and grid utilisation using forecast information.
+3. Solar PV Optimisation: Evaluating different PV capacities using historical solar generation and energy demand.
+4. Battery Energy Storage: Modelling battery charging, discharging, efficiency, state of charge and reserve requirements.
+5. Solar and Load Forecasting: Predicting future solar generation and cold-room energy demand.
+6. Predictive Energy Management: Managing battery reserves, discharge decisions and grid utilisation using forecast information.
 
 ## 4. Intelligent Energy Management
 
@@ -44,7 +44,6 @@ The predictive energy management system incorporates three main control strategi
 - Pandas and NumPy
 - Matplotlib
 - MATLAB
--
 - Open-Meteo Weather API
 - Git and GitHub
 
